@@ -10,7 +10,4 @@ Este projeto foi desenvolvido durante a Imersão Dev Gemini da Alura, em setembr
 * **JavaScript:** Interatividade e funcionalidades dinâmicas.
 * **Google Gemini:** Inteligência artificial utilizada para [descreva como você utilizou o Gemini no seu projeto, por exemplo: geração de texto, tradução, criação de imagens, etc.].
 
-## Como Executar
-1. **Clonar o repositório:**
-   ```bash
-   git clone https://seu-repositorio.git
+
