@@ -38,7 +38,7 @@ let dados = [
     {
         titulo: "Arduino: Motores",
         descricao: "O professor Marcelo Vieira apresenta os motores no Arduino, explicando a diferença entre motores CC e motores de redução. Ele demonstra como ligar os motores e controlá-los usando o simulador Phet. Além disso, ele mostra como usar o motor de vibração para criar efeitos sonoros.",
-        inframe:'<iframe src="https://www.youtube.com/embed/V7q-jH8Qaus?si=Wit-MLVLPM9DawQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        iframe:'<iframe src="https://www.youtube.com/embed/V7q-jH8Qaus?si=Wit-MLVLPM9DawQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
         link: "https://www.arduino.cc/",
         tags: "Motor Redução reducao redução ensino fundamental Ensino fundamental",
     },
