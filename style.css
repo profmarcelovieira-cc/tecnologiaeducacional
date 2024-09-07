@@ -14,6 +14,24 @@ body {
     padding: 0;
 }
 
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;   
+    width: 100%;
+    height: 100%;   
+}
+
+.center-video {
+    margin: 0 auto;
+    }
+
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
@@ -32,7 +50,7 @@ section {
 
 /* Estiliza os inputs dentro das seções */
 section input {
-    width: 25rem; /* Largura dos inputs */
+    width: 30rem; /* Largura dos inputs */
     border: none; /* Remove a borda padrão */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 1.5rem; /* Borda arredondada */
@@ -55,7 +73,7 @@ section button {
 
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
-    width: 25rem; /* Largura máxima da caixa de resultados */
+    width: 30rem; /* Largura máxima da caixa de resultados */
     height: 46vh; /* Altura máxima da caixa de resultados */
     overflow-y: auto; /* Adiciona rolagem vertical se necessário */
     margin-top: 1rem; /* Espaçamento acima da caixa de resultados */
